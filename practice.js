@@ -140,3 +140,5 @@ let mergedArray = [...arr4,...arr5];
 
 let arr6 = [1, 2, 2, 3, 4, 4];
 let uniqueArray = [...new Set(arr6)];
+
+//test
